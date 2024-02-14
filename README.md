@@ -1,7 +1,7 @@
-# Wildbeast
+# Lobo
 
 ## Descrição
-O Wildbeast é um projeto de website sobre animais selvagens, especialmente focado nos lobos. Ele fornece informações sobre os lobos, suas características, hábitos, entre outros aspectos interessantes.
+O Lobo é um projeto de website sobre animais selvagens, especialmente focado nos lobos. Ele fornece informações sobre os lobos, suas características, hábitos, entre outros aspectos interessantes.
 
 ## Tecnologias Utilizadas
 - HTML5
